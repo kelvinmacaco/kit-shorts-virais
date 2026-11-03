@@ -1,0 +1,28 @@
+[incredulous] <GANCHO com "você" e um NÚMERO, até 12 palavras>
+
+[serious, fast] <MISTÉRIO: "E o último é o PIOR." / "No final eu te mostro…">
+
+[building tension] Um: <item 1, frases curtas, MAIÚSCULAS na palavra-chave>.
+
+[frustrated] Mas piora. Dois: <item 2>.
+
+[curious, quick] E você, <pergunta fácil>? Comenta SIM ou NÃO.
+
+[outraged] Três: <item 3, o mais chocante>.
+
+[passionate, rising] <REVELAÇÃO: responde o mistério do começo>.
+
+[friendly, fast] Deixa o like, manda pra quem <é assim> e segue pra parte dois.
+
+[slowing down, mysterious] <frase que emenda no gancho, para o loop>…
+
+# ---- Variante de tom calmo, pausado e dramático (para temas pesados) ----
+# [calm, low voice, deliberate] <frase-tese do gancho>…
+# [slow, intense] <complemento com "você">… [pause] <virada>.
+# [measured] Primeiro sinal: [pause] <item 1>.
+# [low, intense] Segundo sinal: [pause] <item 2>.
+# [slow, grave] E o terceiro… [pause] <item 3>. [dramatic pause] <consequência>.
+# [very low, heavy, dramatic] E agora… imagina o tamanho disso. [pause] <dado real do estrago>.
+# [quiet, reflective] E você… [pause] <pergunta>? Comenta: sim… ou não.
+# [calm, steady] Deixa o like… manda pra quem <é assim>… e segue pra parte dois.
+# [slow, almost a breath] <frase que emenda no gancho>…

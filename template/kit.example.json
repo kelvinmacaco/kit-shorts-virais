@@ -1,0 +1,8 @@
+{
+  "handle": "@SEU_CANAL",
+  "ffmpeg_bin": "C:\caminho\para\ffmpeg\bin",
+  "python": "C:\caminho\para\venv\Scripts\python.exe",
+  "hyperframes": "0.8.230",
+  "voz_elevenlabs": "nome da voz escolhida pelo criador",
+  "horario_postagem": "22:00"
+}
